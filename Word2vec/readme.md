@@ -791,15 +791,15 @@ for word1, word2 in word_pairs:
 
 1. **扩展实验结果**
 
-   ![Figure_1](F:\教程\damoxing\Word2vec\photo\Figure_1.png)
+   <img src="F:\教程\damoxing\Word2vec\photo\Figure_1.jpg" alt="Figure_1" style="zoom:50%;" />
 
-   ![Figure_2](F:\教程\damoxing\Word2vec\photo\Figure_2.png)
+   ![Figure_2](F:\教程\damoxing\Word2vec\photo\Figure_2.jpg)
 
-   ![Figure_3](F:\教程\damoxing\Word2vec\photo\Figure_3.png)
-
-   ![Figure_4](F:\教程\damoxing\Word2vec\photo\Figure_4.png)
+   ![Figure_3](F:\教程\damoxing\Word2vec\photo\Figure_3.jpg)
 
    
+
+   ![Figure_4](F:\教程\damoxing\Word2vec\photo\Figure_4.jpg)
 
 2. **参考文献**
 
