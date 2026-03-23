@@ -797,9 +797,11 @@ for word1, word2 in word_pairs:
 
    ![Figure_3](F:\教程\damoxing\Word2vec\photo\Figure_3.png)
 
+   ![Figure_4](F:\教程\damoxing\Word2vec\photo\Figure_4.png)
+
    
 
-2. **参考文献![Figure_4](F:\教程\damoxing\Word2vec\photo\Figure_4.png)**
+2. **参考文献**
 
    [1] 司马迁。史记 [M]. 北京：中华书局，1959.
 
