@@ -791,15 +791,15 @@ for word1, word2 in word_pairs:
 
 1. **扩展实验结果**
 
-   ![Figure_1](C:\Users\李洋\Desktop\t\Figure_1.png)
+   ![Figure_1](F:\教程\damoxing\Word2vec\photo\Figure_1.png)
 
-   ![Figure_2](C:\Users\李洋\Desktop\t\Figure_2.png)
+   ![Figure_2](F:\教程\damoxing\Word2vec\photo\Figure_2.png)
 
-   ![Figure_3](C:\Users\李洋\Desktop\t\Figure_3.png)
+   ![Figure_3](F:\教程\damoxing\Word2vec\photo\Figure_3.png)
 
-   ![Figure_4](C:\Users\李洋\Desktop\t\Figure_4.png)
+   
 
-2. **参考文献**
+2. **参考文献![Figure_4](F:\教程\damoxing\Word2vec\photo\Figure_4.png)**
 
    [1] 司马迁。史记 [M]. 北京：中华书局，1959.
 
