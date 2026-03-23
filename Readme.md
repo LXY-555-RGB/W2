@@ -791,15 +791,15 @@ for word1, word2 in word_pairs:
 
 1. **扩展实验结果**
 
-   <img src=".\photo\Figure_1.jpg" alt="Figure_1" style="zoom:50%;" />
+   <img src="photo\Figure_1.jpg" alt="Figure_1" style="zoom:50%;" />
 
-   ![Figure_2](.\photo\Figure_2.jpg)
+   ![Figure_2](photo\Figure_2.jpg)
 
-   ![Figure_3](.\photo\Figure_3.jpg)
+   ![Figure_3](photo\Figure_3.jpg)
 
    
 
-   ![Figure_4](.\photo\Figure_4.jpg)
+   ![Figure_4](photo\Figure_4.jpg)
 
 2. **参考文献**
 
